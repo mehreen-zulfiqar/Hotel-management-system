@@ -5,6 +5,14 @@ This is a final year project designed to manage the daily operations of a hotel.
 2) Customer information management<br>
 3) Biling and payment tracking<br>
 4) Admin dashboard for managing records<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3logoColor=white)
+   ![javascript](https://img.shields.io./badge/javascriptF7DF1E?style=for-the-badge&logo=javascript&logocolor=black)
+   ![Bootstrap](https://img.shields.io./badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrapt&logoColor=white)
+   ![MYSQL](https://img.shields.io./badge/MySQL-4479A?style=for-the-badge&logo=mysql&logoColor=white)
+   
+   
+   
 #Technology Used:<br>
 1) Frontend: HTML, CSS,JavaScript<br>
 2) Dashboard:Bootstrap<br>
