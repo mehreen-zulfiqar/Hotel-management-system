@@ -11,11 +11,8 @@ This is a final year project designed to manage the daily operations of a hotel.
    ![javascript](https://img.shields.io./badge/javascriptF7DF1E?style=for-the-badge&logo=javascript&logocolor=black)<br>
    ![Bootstrap](https://img.shields.io./badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrapt&logoColor=white)<br>
    ![MYSQL](https://img.shields.io./badge/MySQL-4479A?style=for-the-badge&logo=mysql&logoColor=white)
-   
-<br>
 2) Dashboard:Bootstrap<br>
 3) Backend:Database MySQL<br>
-
 #How to Run:<br>
 1)Set up the MySQL database<br> 
 2)Run the project files on a local server (or open index.html file in browser)<br>
